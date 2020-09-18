@@ -29,6 +29,7 @@
         </style>
     </head>
     <body>
+        <form action="SearchServlet" method="get">
         <div class="tables" style="font-size: 20px;font-family: serif">
              <div class="row" style=" text-align: center; background-color: black;opacity: 1.2;margin-top: 10px;color: white">
                     <div class="col-md-6" >
@@ -41,7 +42,7 @@
                         <input type="date" name="check_out_date" style=" color: black" required/>
                     </div>            
                 </div>
-            <form action="SearchServlet" method="get">
+            
             <div class="row" style=" text-align: center; background-color: black;opacity: 1.2; color: white">
                 <button style=" margin-top: 20px;margin-bottom: 20px">Search</button>
             </div>

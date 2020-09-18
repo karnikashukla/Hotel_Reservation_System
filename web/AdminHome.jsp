@@ -27,10 +27,10 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto" style=" font-size: 20px">
       <li class="nav-item active">
-        <a class="nav-link" href="AdminHome">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="AdminHome">Home |<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item" style=" font-size: 20px">
-        <a class="nav-link" href="Admin_Rooms_Fetch.jsp">Room Details</a>
+        <a class="nav-link" href="Admin_Rooms_Fetch.jsp">Room Details  |</a>
       </li>
       <li class="nav-item" style=" font-size: 20px; float: right">
         <a class="nav-link" href="Admin_Login.jsp">Logout</a>

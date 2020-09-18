@@ -32,10 +32,10 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto" style=" font-size: 20px">
                     <li class="nav-item ">
-                        <a class="nav-link" href="AdminHome">Home</a>
+                        <a class="nav-link" href="AdminHome">Home  |</a>
                     </li>
                     <li class="nav-item active" style=" font-size: 20px">
-                        <a class="nav-link" href="Admin_Rooms_Fetch.jsp">Room Details <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="Admin_Rooms_Fetch.jsp">Room Details |<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item active" style=" font-size: 20px">
                         <a class="nav-link" href="Admin_Login.jsp">Logout</a>
@@ -43,7 +43,7 @@
             </div>
         </nav>
         <div class="tables" style="font-size: 20px;font-family: serif">
-            <h1 class="title1" style="text-align: center;margin-bottom: 10px;font-style: bold;margin-top: 20px">Tools Rooms</h1>
+            <h1 class="title1" style="text-align: center;margin-bottom: 10px;font-style: bold;margin-top: 20px">Total Rooms</h1>
             <div class="panel-body widget-shadow" style=" margin-left: 110px">
                 <div style="overflow-x:auto;">
                     <table border="5" style="font-family: 'serif'; width: 80%; text-align: center">
